@@ -292,7 +292,6 @@ for image_file in image_files:
 After running this notebook, we will be getting a folder that contains the weights of the model and the predictions of the bounding boxes and keypoints on the images.
 The keypoints are present in the folder in the form of text files with the same name as the image file. 
 
-![alt text](image.png)
 
 ## Contributors
 - Sudeesh Muthu. M 
